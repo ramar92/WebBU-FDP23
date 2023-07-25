@@ -1,0 +1,21 @@
+CSS OVERVIEW  CHROME DEV TOOLS:
+MORE TOOLS->CSS OVERVIEW
+
+VALIDATION:
+https://jigsaw.w3.org/css-validator/
+
+https://developer.chrome.com/docs/devtools/css/
+
+Demo page: (Flex)
+https://jec.fish/demo/css-flexbox
+https://developer.chrome.com/docs/devtools/css/flexbox/
+
+
+To open dev tools:
+https://developer.chrome.com/docs/devtools/open/#elements
+
+
+CSS Grid:
+https://jec.fish/demo/css-grid-fruit
+https://jec.fish/demo/css-grid-snack
+
